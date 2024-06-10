@@ -1,0 +1,1 @@
+print('Git commit 02 - branch "init"')
